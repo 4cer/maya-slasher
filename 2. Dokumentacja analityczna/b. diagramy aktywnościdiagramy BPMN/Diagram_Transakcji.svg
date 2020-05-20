@@ -46,9 +46,9 @@
       <rect fill="none" x="299.25" width="1238.0052" height="916" y="-140" clip-path="url(#clipPath2)"/>
     </g>
     <g font-size="15px" stroke-linecap="butt" transform="matrix(1,0,0,1,-284,155)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
-      <text x="903.2416" xml:space="preserve" y="-118.9194" clip-path="url(#clipPath2)" stroke="none">Pool</text>
-      <text x="947.7412" xml:space="preserve" font-size="12px" y="-92.9355" clip-path="url(#clipPath2)" stroke="none">Sklep</text>
-      <text x="1416.5641" xml:space="preserve" font-size="12px" y="-92.9355" clip-path="url(#clipPath2)" stroke="none">Inwentarz gracza</text>
+      <text x="853.653" xml:space="preserve" y="-118.9194" clip-path="url(#clipPath2)" stroke="none">Diagram Transakcji</text>
+      <text x="935.0732" xml:space="preserve" font-size="12px" y="-92.9355" clip-path="url(#clipPath2)" stroke="none">Sklepikarz</text>
+      <text x="1433.2369" xml:space="preserve" font-size="12px" y="-92.9355" clip-path="url(#clipPath2)" stroke="none">Ekwipunek</text>
       <text x="400.2412" xml:space="preserve" font-size="12px" y="-92.9355" clip-path="url(#clipPath2)" stroke="none">Przedmiot</text>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-284,155)" stroke-linecap="butt">
@@ -58,9 +58,9 @@
       <rect fill="none" x="299.25" width="1238.0052" height="886" y="-110" clip-path="url(#clipPath2)"/>
     </g>
     <g font-size="15px" stroke-linecap="butt" transform="matrix(1,0,0,1,-284,155)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
-      <text x="903.2416" xml:space="preserve" y="-118.9194" clip-path="url(#clipPath2)" stroke="none">Pool</text>
-      <text x="947.7412" xml:space="preserve" font-size="12px" y="-92.9355" clip-path="url(#clipPath2)" stroke="none">Sklep</text>
-      <text x="1416.5641" xml:space="preserve" font-size="12px" y="-92.9355" clip-path="url(#clipPath2)" stroke="none">Inwentarz gracza</text>
+      <text x="853.653" xml:space="preserve" y="-118.9194" clip-path="url(#clipPath2)" stroke="none">Diagram Transakcji</text>
+      <text x="935.0732" xml:space="preserve" font-size="12px" y="-92.9355" clip-path="url(#clipPath2)" stroke="none">Sklepikarz</text>
+      <text x="1433.2369" xml:space="preserve" font-size="12px" y="-92.9355" clip-path="url(#clipPath2)" stroke="none">Ekwipunek</text>
       <text x="400.2412" xml:space="preserve" font-size="12px" y="-92.9355" clip-path="url(#clipPath2)" stroke="none">Przedmiot</text>
     </g>
     <g text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,579.4887,102.1853)" image-rendering="optimizeQuality">
@@ -90,10 +90,10 @@
       <text x="860.8012" xml:space="preserve" y="61.8978" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">polecenie</text>
     </g>
     <g fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-284,155)" stroke="rgb(255,204,0)">
-      <path d="M846.7541 189.2327 L886.4887 164.8118 L926.2231 189.2327 L886.4887 213.6536 Z" fill-rule="evenodd" clip-path="url(#clipPath2)" stroke="none"/>
+      <path d="M846.7543 189.2327 L886.4887 164.8119 L926.2231 189.2327 L886.4887 213.6535 Z" fill-rule="evenodd" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-284,155)" stroke-linecap="butt">
-      <path fill="none" d="M846.7541 189.2327 L886.4887 164.8118 L926.2231 189.2327 L886.4887 213.6536 Z" fill-rule="evenodd" clip-path="url(#clipPath2)"/>
+      <path fill="none" d="M846.7543 189.2327 L886.4887 164.8119 L926.2231 189.2327 L886.4887 213.6535 Z" fill-rule="evenodd" clip-path="url(#clipPath2)"/>
       <text x="860.8012" xml:space="preserve" y="193.9466" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">polecenie</text>
     </g>
     <g fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-284,155)" stroke="rgb(255,204,0)">
@@ -183,12 +183,12 @@
       <text stroke-linecap="butt" x="708.6829" y="253.6128" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" stroke-miterlimit="1.45" xml:space="preserve">Przenieś do</text>
       <text stroke-linecap="butt" x="711.6887" y="268.314" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" stroke-miterlimit="1.45" xml:space="preserve">inwentarzy</text>
       <text stroke-linecap="butt" x="713.6956" y="283.0151" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" stroke-miterlimit="1.45" xml:space="preserve">właścicieli</text>
-      <path fill="rgb(255,204,0)" d="M1071.3517 169.2327 L1136.3517 169.2327 L1136.3517 184.2327 L1151.3517 184.2327 L1151.3517 209.2327 L1071.3517 209.2327 Z" clip-path="url(#clipPath2)" stroke="none"/>
-      <path fill="white" d="M1136.3517 169.2327 L1136.3517 184.2327 L1151.3517 184.2327 Z" clip-path="url(#clipPath2)" fill-rule="evenodd" stroke="none"/>
-      <path fill="none" stroke-miterlimit="1.45" d="M1071.3517 169.2327 L1136.3517 169.2327 L1136.3517 184.2327 L1151.3517 184.2327 L1151.3517 209.2327 L1071.3517 209.2327 Z" clip-path="url(#clipPath2)" stroke-linecap="butt"/>
-      <path fill="none" stroke-miterlimit="1.45" d="M1136.3517 169.2327 L1136.3517 184.2327 L1151.3517 184.2327 Z" fill-rule="evenodd" clip-path="url(#clipPath2)" stroke-linecap="butt"/>
-      <text stroke-linecap="butt" x="1088.673" y="186.596" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" stroke-miterlimit="1.45" xml:space="preserve">kierunek</text>
-      <text stroke-linecap="butt" x="1079.8282" y="201.2972" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" stroke-miterlimit="1.45" xml:space="preserve">przebiegu &gt;</text>
+      <path fill="rgb(255,204,0)" d="M1071.3517 185.7164 L1136.3517 185.7164 L1136.3517 200.7164 L1151.3517 200.7164 L1151.3517 225.7164 L1071.3517 225.7164 Z" clip-path="url(#clipPath2)" stroke="none"/>
+      <path fill="white" d="M1136.3517 185.7164 L1136.3517 200.7164 L1151.3517 200.7164 Z" clip-path="url(#clipPath2)" fill-rule="evenodd" stroke="none"/>
+      <path fill="none" stroke-miterlimit="1.45" d="M1071.3517 185.7164 L1136.3517 185.7164 L1136.3517 200.7164 L1151.3517 200.7164 L1151.3517 225.7164 L1071.3517 225.7164 Z" clip-path="url(#clipPath2)" stroke-linecap="butt"/>
+      <path fill="none" stroke-miterlimit="1.45" d="M1136.3517 185.7164 L1136.3517 200.7164 L1151.3517 200.7164 Z" fill-rule="evenodd" clip-path="url(#clipPath2)" stroke-linecap="butt"/>
+      <text stroke-linecap="butt" x="1088.673" y="203.0796" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" stroke-miterlimit="1.45" xml:space="preserve">kierunek</text>
+      <text stroke-linecap="butt" x="1079.8282" y="217.7808" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" stroke-miterlimit="1.45" xml:space="preserve">przebiegu &gt;</text>
       <rect x="997.6317" y="239.2327" clip-path="url(#clipPath2)" fill="rgb(255,204,0)" width="92.72" rx="4" ry="4" height="51.04" stroke="none"/>
       <rect stroke-linecap="butt" x="997.6317" y="239.2327" clip-path="url(#clipPath2)" fill="none" width="92.72" rx="4" ry="4" height="51.04" stroke-miterlimit="1.45"/>
       <text stroke-linecap="butt" x="1020.6509" y="254.7654" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" stroke-miterlimit="1.45" xml:space="preserve">Odczytaj</text>
@@ -213,8 +213,8 @@
       <text stroke-linecap="butt" x="1447.7404" y="433.6053" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" stroke-miterlimit="1.45" xml:space="preserve">gracza</text>
       <rect x="846.7543" y="492.695" clip-path="url(#clipPath2)" width="79.4688" rx="4" ry="4" height="13.6918" stroke="none"/>
       <rect stroke-linecap="butt" x="846.7543" y="492.695" clip-path="url(#clipPath2)" fill="none" width="79.4688" rx="4" ry="4" height="13.6918" stroke-miterlimit="1.45"/>
-      <path fill="rgb(255,204,0)" d="M846.7542 566.0447 L886.4886 541.6238 L926.223 566.0447 L886.4886 590.4655 Z" clip-path="url(#clipPath2)" fill-rule="evenodd" stroke="none"/>
-      <path fill="none" stroke-miterlimit="1.45" d="M846.7542 566.0447 L886.4886 541.6238 L926.223 566.0447 L886.4886 590.4655 Z" fill-rule="evenodd" clip-path="url(#clipPath2)" stroke-linecap="butt"/>
+      <path fill="rgb(255,204,0)" d="M846.7543 566.0446 L886.4887 541.6238 L926.2231 566.0446 L886.4887 590.4655 Z" clip-path="url(#clipPath2)" fill-rule="evenodd" stroke="none"/>
+      <path fill="none" stroke-miterlimit="1.45" d="M846.7543 566.0446 L886.4887 541.6238 L926.2231 566.0446 L886.4887 590.4655 Z" fill-rule="evenodd" clip-path="url(#clipPath2)" stroke-linecap="butt"/>
       <text stroke-linecap="butt" x="863.8129" y="570.7585" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" stroke-miterlimit="1.45" xml:space="preserve">starcza?</text>
       <circle fill="rgb(255,204,0)" r="15" clip-path="url(#clipPath2)" cx="619.0074" cy="589.2078" stroke="none"/>
       <circle stroke-linecap="butt" clip-path="url(#clipPath2)" fill="none" r="15" cx="619.0074" cy="589.2078" stroke-miterlimit="1.45"/>
@@ -278,8 +278,8 @@
       <path stroke-miterlimit="1.45" d="M740.3674 238.0832 L745.3674 226.0832 L740.3674 229.0832 L735.3674 226.0832 Z" clip-path="url(#clipPath2)" stroke-linecap="butt" stroke="none"/>
       <path fill="none" stroke-miterlimit="1.45" d="M740.3674 289.0891 L740.3674 320.5188" clip-path="url(#clipPath2)" stroke-linecap="butt"/>
       <path stroke-miterlimit="1.45" d="M740.3674 328.5188 L745.3674 316.5188 L740.3674 319.5188 L735.3674 316.5188 Z" clip-path="url(#clipPath2)" stroke-linecap="butt" stroke="none"/>
-      <path fill="none" stroke-miterlimit="1.45" stroke-dasharray="6,2" d="M1151.3199 189.2327 L1181.3517 189.2327" clip-path="url(#clipPath2)" stroke-linecap="butt"/>
-      <path fill="none" stroke-miterlimit="1.45" stroke-dasharray="6,2" d="M1071.3344 189.2327 L1045.6074 189.2327" clip-path="url(#clipPath2)" stroke-linecap="butt"/>
+      <path fill="none" stroke-miterlimit="1.45" stroke-dasharray="6,2" d="M1151.3199 197.9655 L1181.6261 192.0884" clip-path="url(#clipPath2)" stroke-linecap="butt"/>
+      <path fill="none" stroke-miterlimit="1.45" stroke-dasharray="6,2" d="M1071.3344 197.547 L1045.3043 192.233" clip-path="url(#clipPath2)" stroke-linecap="butt"/>
       <path fill="none" stroke-miterlimit="1.45" d="M886.4887 213.6808 L886.4887 264.7527 L989.6057 264.7527" clip-path="url(#clipPath2)" stroke-linecap="butt"/>
       <path stroke-miterlimit="1.45" d="M997.6057 264.7527 L985.6057 259.7527 L988.6057 264.7527 L985.6057 269.7527 Z" clip-path="url(#clipPath2)" stroke-linecap="butt" stroke="none"/>
       <text stroke-linecap="butt" x="905.2548" y="242.417" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" stroke-miterlimit="1.45" xml:space="preserve">[usuń przedmiot</text>
