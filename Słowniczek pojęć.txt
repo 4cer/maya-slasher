@@ -1,0 +1,18 @@
+* mana - energia magiczna, zużywana przy określonych rodzajach ataku(np. umiejętność)
+* zdrowie/życie - punkty żywotności postaci, po utracie wszystkich postać umiera
+* mob/potwór - byt w grze, przeciwnik gracza
+* mod - modyfikacja, wprowadza zmiany graficzne lub w mechanice gry
+* xp - expeirence points, punkty doświadczenia
+* levelowanie -  zdobywanie punktów doświadczenia i poziomów doświadczenia 
+	np. przez zabijanie potworów, wykonywanie questów
+* umiejętność - atak specjalny, zużywa manę, jest przypisana określonym klasom postaci
+* atrybut - wzmocnienia podtsawowych statystyk gracza np. życie, mana
+* runa - przedmiot magiczny, działanie podobne do umiejętności, 
+	lecz znacznie potężniejsze
+* łup/loot - przedmioty zdobywane przez gracza(ekwipunek, waluta)
+* klasa postaci - określony zestaw umiejętności i punktów życia i many,
+	najczęście powiązany z historią świata gry
+* quest - zadanie do wykonania dla gracza w zamian za łup
+* asset - elementarna kategoria obiektów prostych z których sklada się gra(np. tektura, model, dzwięk)
+* tekstura - bitmapa definiująca określony aspekt powierzchni obiektu
+* model - zbiór siatek definiująca trójwymiarowy kształt obiektu w grze
