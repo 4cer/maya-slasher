@@ -41,24 +41,24 @@ Wymagania Zewnętrze:
 
 
 <b>Diagram Sekwencji</b>
-![diagram sekwencji](https://github.com/4cer/maya-slasher/blob/master/2.%20Dokumentacja%20analityczna/b.%20diagramy%20aktywno%C5%9Bcidiagramy%20BPMN/diagram%20sekwencji.png)
+![diagram sekwencji](https://github.com/4cer/maya-slasher/blob/master/2.%20Dokumentacja%20analityczna/b.%20diagramy%20aktywno%C5%9Bci/diagram%20sekwencji.png)
 
 
 <b>Diagram Systemu Walki</b>
-![diagram systemu walki](https://github.com/4cer/maya-slasher/blob/master/2.%20Dokumentacja%20analityczna/b.%20diagramy%20aktywno%C5%9Bcidiagramy%20BPMN/Diagram%20systemu%20walki.svg)
+![diagram systemu walki](https://github.com/4cer/maya-slasher/blob/master/2.%20Dokumentacja%20analityczna/b.%20diagramy%20aktywno%C5%9Bci/Diagram%20systemu%20walki.svg)
 
 
 <b>Diagram Transakcji</b>
-![diagram transakcji](https://github.com/4cer/maya-slasher/blob/master/2.%20Dokumentacja%20analityczna/b.%20diagramy%20aktywno%C5%9Bcidiagramy%20BPMN/Diagram_Transakcji.svg)
+![diagram transakcji](https://github.com/4cer/maya-slasher/blob/master/2.%20Dokumentacja%20analityczna/b.%20diagramy%20aktywno%C5%9Bci/Diagram_Transakcji.svg)
 
 
 
 <b>Diagram Levelowania</b>
 
-![diagram levelowania](https://github.com/4cer/maya-slasher/blob/master/2.%20Dokumentacja%20analityczna/b.%20diagramy%20aktywno%C5%9Bcidiagramy%20BPMN/Levelowanie.png)
+![diagram levelowania](https://github.com/4cer/maya-slasher/blob/master/2.%20Dokumentacja%20analityczna/b.%20diagramy%20aktywno%C5%9Bci/Levelowanie.png)
 
 
 
 <b>Diagram Tworzenia Postaci</b>
 
-![diagram tworzenia postaci](https://github.com/4cer/maya-slasher/blob/master/2.%20Dokumentacja%20analityczna/b.%20diagramy%20aktywno%C5%9Bcidiagramy%20BPMN/Tworzenie%20Postaci.png)
+![diagram tworzenia postaci](https://github.com/4cer/maya-slasher/blob/master/2.%20Dokumentacja%20analityczna/b.%20diagramy%20aktywno%C5%9Bci/tworzenie%20postaci.png)
