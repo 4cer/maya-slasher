@@ -52,9 +52,13 @@ Wymagania Zewnętrze:
 ![diagram transakcji](https://github.com/4cer/maya-slasher/blob/master/2.%20Dokumentacja%20analityczna/b.%20diagramy%20aktywno%C5%9Bcidiagramy%20BPMN/Diagram_Transakcji.svg)
 
 
+
 <b>Diagram Levelowania</b>
+
 ![diagram levelowania](https://github.com/4cer/maya-slasher/blob/master/2.%20Dokumentacja%20analityczna/b.%20diagramy%20aktywno%C5%9Bcidiagramy%20BPMN/Levelowanie.png)
 
 
+
 <b>Diagram Tworzenia Postaci</b>
+
 ![diagram tworzenia postaci](https://github.com/4cer/maya-slasher/blob/master/2.%20Dokumentacja%20analityczna/b.%20diagramy%20aktywno%C5%9Bcidiagramy%20BPMN/Tworzenie%20Postaci.png)
